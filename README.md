@@ -37,7 +37,7 @@ Yazılım geliştirme, siber güvenlik temelleri ve teknoloji odaklı girişimci
 
 Kod yazmadığım veya yeni mimariler denemediğim zamanlarda:
 * 🎧 Synthwave, trap ve atmosferik parça listeleri keşfederim.
-* 📻 Retro estetik, analog detaylar ve plak koleksiyonumla vakit geçiririm.
+* ⚽ 🏀 Futbol ve basketbolu severek takip eder ve oynarım.
 * 🏋️ Düzenli antrenman ve disiplinli bir rutinle zihnimi zinde tutarım.
 
 ---
