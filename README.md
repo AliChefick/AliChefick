@@ -1,13 +1,13 @@
 <p align="center">
-  <!-- VT323 CRT İsim Başlığı (Kan Kırmızısı Vurgu) -->
+ 
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=48&pause=100000&color=E63946&center=true&vCenter=true&width=600&height=65&lines=ALI%20SEFIK%20AYDIN" alt="ALI SEFIK AYDIN" />
   <br/>
-  <!-- VT323 Daktilo Metni -->
+  
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&pause=1000&color=E63946&center=true&vCenter=true&width=600&height=45&lines=Yaz%C4%B1l%C4%B1m%20Geli%C5%9Ftirici;Siber%20G%C3%BCvenlik;Another%20Day%2C%20Another%20Opportunity" alt="Retro CRT Typing SVG" />
 </p>
 
 <p align="center">
-  <!-- Minimalist LinkedIn Butonu -->
+ 
   <a href="https://www.linkedin.com/in/ali-sefik-aydin" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-ALI_SEFIK_AYDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=E63946&labelColor=161B22" alt="LinkedIn" />
   </a>
@@ -35,15 +35,6 @@
 
 <br/>
 
-### 📌 Öne Çıkan Projeler
-
-| Proje | Açıklama | Teknolojiler |
-| :--- | :--- | :--- |
-| 🎮 **[Modern Tetris Capstone](https://github.com/AliChefick)** | Akıcı mekanikler, özel skorlama mantığı ve temiz mimariyle geliştirilmiş modern masaüstü Tetris oyunu. | `C#` `.NET 8` `WPF` |
-| 🛡️ **[Security & Network Lab](https://github.com/AliChefick)** | Ağ analizi, paket izleme ve ofansif güvenlik simülasyonları için araç seti. | `Python` `Linux` `Bash` |
-
-<br/>
-
 ### 📡 Canlı Etkinlik Durumu
 
 <p align="left">
@@ -56,7 +47,7 @@
 ### 📊 GitHub İstatistikleri
 
 <details open>
-  <summary><b>▼ İstatistikleri Görüntüle ⚡</b></summary>
+  <summary><b> İstatistikleri Görüntüle ⚡</b></summary>
   <br/>
   <p align="center">
     <!-- Koyu Kırmızı Vurgulu İstatistikler -->
