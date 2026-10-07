@@ -4,22 +4,23 @@
 
 <br/>
 
-
+<!-- Merkezlenmiş SkillIcons LinkedIn Butonu -->
 <p align="center">
   <a href="https://www.linkedin.com/in/ali-sefik-aydin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Ali%20Şefik%20Aydın-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182" alt="LinkedIn Profilim" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="55" height="55" />
   </a>
 </p>
 
 <br/>
 
+<!-- Yetenekler -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,py,cs,linux,ubuntu,bash,docker,git,vscode" alt="Yetenekler" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,py,cs,linux,ubuntu,bash,docker,git,vscode&theme=dark" alt="Yetenekler" />
   </a>
 </p>
 
-
+<!-- Canlı Lanyard Durumu (Oyun, Kodlama ve Spotify) -->
 <p align="left">
   <img src="https://lanyard.cnrad.dev/api/365947167036276736?theme=dark&bg=0D1117&animated=true&hideDiscrim=true" alt="Discord Status" />
 </p>
