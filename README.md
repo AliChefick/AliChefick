@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=1f1d1a,3d312a,c59b6d&height=140&section=header&text=Ali%20Şefik%20Aydın&fontAlignY=38&fontSize=42&fontColor=F4E8C1&fontFamily=Playfair+Display&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=80&section=header&text=Ali%20Şefik%20Aydın&fontAlignY=55&fontSize=38&fontColor=E0A96D&fontFamily=Special+Elite&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
