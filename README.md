@@ -1,19 +1,22 @@
 <p align="center">
-  <!-- Retro CRT Temalı İsim Başlığı -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=0d1117,1a1e24,ffb86c&height=140&section=header&text=ALI%20SEFIK%20AYDIN&fontAlignY=35&fontSize=48&fontColor=FFB86C&fontFamily=VT323&animation=fadeIn" width="100%" />
-</p>
-
-<p align="center">
-  <!-- Hareketli Retro Daktilo Metni -->
+  <!-- 1. Ana Başlık: İsim (VT323) -->
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=52&pause=1000&color=FFB86C&center=true&vCenter=true&width=650&height=70&lines=ALI+SEFIK+AYDIN" alt="ALI SEFIK AYDIN" />
+  <br/>
+  <!-- 2. Alt Başlık: Daktilo Metni (VT323) -->
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=FFB86C&center=true&vCenter=true&width=550&height=50&lines=Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftirici;Siber+G%C3%BCvenlik;Another+Day%2C+Another+Opportunity" alt="Retro CRT Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&pause=1000&color=FFB86C&center=true&vCenter=true&width=600&height=50&lines=Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftirici;Siber+G%C3%BCvenlik;Another+Day%2C+Another+Opportunity" alt="Retro CRT Typing SVG" />
   </a>
 </p>
 
 <p align="center">
+  <!-- Retro Terminal LinkedIn Butonu -->
   <a href="https://www.linkedin.com/in/ali-sefik-aydin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Ali%20Şefik%20Aydın-0D1117?style=for-the-badge&logo=linkedin&logoColor=FFB86C&labelColor=1A1E24" alt="LinkedIn Profilim" />
+    <img src="https://img.shields.io/badge/LINKEDIN-ALI_SEFIK_AYDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=FFB86C&labelColor=161B22" alt="LinkedIn" />
   </a>
+</p>
+
+<p align="center">
+  <code>----------------------------------------------------------------------------------</code>
 </p>
 
 ---
