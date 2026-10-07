@@ -10,13 +10,13 @@ Bağlantı kurmak için: [LinkedIn](https://www.linkedin.com/in/ali-sefik-aydin)
   </a>
 </p>
 
-<!-- Canlı Discord & Spotify Durumu -->
+
 <p align="left">
-  <img src="https://discord-readme-badge.vercel.app/api?id=365947167036276736" alt="Discord Status" />
+  <img src="https://lanyard.cnrad.dev/api/365947167036276736?theme=dark&bg=0D1117&animated=true&hideDiscrim=true" alt="Discord Status" />
 </p>
 
 <details open>
-  <summary><b> GitHub İstatistikleri ⚡</b></summary>
+  <summary><b>GitHub İstatistikleri ⚡</b></summary>
   <br/>
   <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=AliChefick&show_icons=true&locale=tr&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ali Şefik GitHub İstatistikleri" />
