@@ -20,8 +20,14 @@
 </p>
 
 
+<!-- 1. VS Code / Oyun Durumu -->
 <p align="left">
   <img src="https://lanyard.cnrad.dev/api/365947167036276736?theme=dark&bg=0D1117&animated=true&hideDiscrim=true&showDisplayName=true" alt="Discord Status" />
+</p>
+
+<!-- 2. Canlı Spotify Parçası (Lanyard API'sine bağlı) -->
+<p align="left">
+  <img src="https://lanyard-visualizer.netlify.app/api/spotify?id=365947167036276736&theme=dark&bg=0D1117" alt="Spotify Live" />
 </p>
 
 <details open>
