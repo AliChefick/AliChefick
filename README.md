@@ -27,7 +27,7 @@
 
 ### 🛠️ Teknolojiler & Yetkinlikler
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cs,js,html,css,bash,linux,ubuntu,docker,git,vscode&theme=dark" alt="Yetenekler" />
   </a>
@@ -35,18 +35,9 @@
 
 ---
 
-### 📌 Öne Çıkan Projeler
-
-| Proje | Açıklama | Teknolojiler |
-| :--- | :--- | :--- |
-| 🎮 **[Modern Tetris Capstone](https://github.com/AliChefick)** | Akıcı mekanikler, özel skorlama mantığı ve temiz mimariyle geliştirilmiş modern masaüstü Tetris oyunu. | `C#` `.NET 8` `WPF` |
-| 🛡️ **[Security & Network Lab](https://github.com/AliChefick)** | Ağ analizi, paket izleme ve ofansif güvenlik simülasyonları için geliştirilmiş pratik araç seti. | `Python` `Linux` `Bash` |
-
----
-
 ### 📡 Canlı Etkinlik Durumu
 
-<p align="left">
+<p align="center">
   <img src="https://lanyard.cnrad.dev/api/365947167036276736?theme=dark&bg=0D1117&animated=true&hideDiscrim=true&showDisplayName=true" alt="Discord Status" />
 </p>
 
