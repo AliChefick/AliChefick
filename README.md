@@ -13,7 +13,7 @@
 <br/>
 
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,py,cs,linux,ubuntu,bash,docker,git,vscode&theme=dark" alt="Yetenekler" />
   </a>
