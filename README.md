@@ -1,11 +1,5 @@
 <p align="center">
-  <!-- 1. Ana Başlık: İsim (VT323) -->
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=52&pause=1000&color=FFB86C&center=true&vCenter=true&width=650&height=70&lines=ALI+SEFIK+AYDIN" alt="ALI SEFIK AYDIN" />
-  <br/>
-  <!-- 2. Alt Başlık: Daktilo Metni (VT323) -->
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&pause=1000&color=FFB86C&center=true&vCenter=true&width=600&height=50&lines=Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftirici;Siber+G%C3%BCvenlik;Another+Day%2C+Another+Opportunity" alt="Retro CRT Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&pause=1000&color=FFB86C&center=true&vCenter=true&width=650&height=90&lines=ALI+SEFIK+AYDIN;Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftirici;Siber+G%C3%BCvenlik;Another+Day%2C+Another+Opportunity" alt="Ali Sefik Aydin CRT" />
 </p>
 
 <p align="center">
@@ -16,7 +10,7 @@
 </p>
 
 <p align="center">
-  <code>----------------------------------------------------------------------------------</code>
+
 </p>
 
 ---
