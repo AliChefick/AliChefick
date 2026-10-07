@@ -46,7 +46,7 @@
 ### 📊 GitHub İstatistikleri
 
 <details open>
-  <summary><b>▼ Detayları Görüntüle ⚡</b></summary>
+  <summary><b> Detayları Görüntüle ⚡</b></summary>
   <br/>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=AliChefick&show_icons=true&locale=tr&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
