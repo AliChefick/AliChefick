@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&height=50&lines=Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftirici;Siber+G%C3%BCvenlik+Merakl%C4%B1s%C4%B1;Another+Day%2C+Another+Opportunity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=22&pause=1000&color=E0A96D&center=true&vCenter=true&width=550&height=50&lines=Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftirici;Siber+G%C3%BCvenlik+Merakl%C4%B1s%C4%B1;Another+Day%2C+Another+Opportunity" alt="Vintage Typing SVG" />
 </p>
  
 
