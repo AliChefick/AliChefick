@@ -20,14 +20,8 @@
 </p>
 
 
-<!-- 1. VS Code / Discord Etkinliği -->
 <p align="left">
-  <img src="https://lanyard.cnrad.dev/api/365947167036276736?theme=dark&bg=0D1117&animated=true&hideDiscrim=true&showDisplayName=true" alt="Discord Status" />
-</p>
-
-<!-- 2. Canlı Spotify Çalar -->
-<p align="left">
-  <img src="https://spotify-github-profile.kittinanx.com/api/run?uid=365947167036276736&scan=true&theme=novatorem&background_color=0D1117" alt="Spotify Live" />
+  <img src="https://lanyard.cnrad.dev/api/365947167036276736?theme=dark&bg=0D1117&animated=true&hideDiscrim=true&showDisplayName=true&showSpotify=true" alt="Discord Status" />
 </p>
 
 <details open>
