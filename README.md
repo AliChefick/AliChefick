@@ -10,6 +10,11 @@ Bağlantı kurmak için: [LinkedIn](https://www.linkedin.com/in/ali-sefik-aydin)
   </a>
 </p>
 
+<!-- Canlı Discord & Spotify Durumu -->
+<p align="left">
+  <img src="https://discord-readme-badge.vercel.app/api?id=365947167036276736" alt="Discord Status" />
+</p>
+
 <details open>
   <summary><b> GitHub İstatistikleri ⚡</b></summary>
   <br/>
