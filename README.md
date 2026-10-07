@@ -20,9 +20,9 @@
   </a>
 </p>
 
-<!-- Canlı Lanyard Durumu (Oyun, Kodlama ve Spotify) -->
+<!-- Canlı Discord (VS Code) ve Spotify Durumu -->
 <p align="left">
-  <img src="https://lanyard.cnrad.dev/api/365947167036276736?theme=dark&bg=0D1117&animated=true&hideDiscrim=true" alt="Discord Status" />
+  <img src="https://lanyard.cnrad.dev/api/365947167036276736?theme=dark&bg=0D1117&animated=true&hideDiscrim=true&showDisplayName=true" alt="Discord Status" />
 </p>
 
 <details open>
