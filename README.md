@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Yazılım+Geliştirici;Siber+Güvenlik+Meraklısı;Another+Day%2C+Another+Opportunity">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&height=50&lines=Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftirici;Siber+G%C3%BCvenlik+Merakl%C4%B1s%C4%B1;Another+Day%2C+Another+Opportunity" alt="Typing SVG" />
+</p>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Yazılım+Geliştirici;Siber+Güvenlik+Meraklısı;Another+Day%2C+Another+Opportunity" alt="Typing SVG" />
   </a>
 </p>
