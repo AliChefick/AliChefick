@@ -38,9 +38,15 @@
 ### 📡 Canlı Etkinlik Durumu
 
 <p align="left">
-  <img src="https://lanyard-badges.vercel.app/api/365947167036276736?theme=dark&bg=0D1117" alt="Discord Etkinlik Rozetleri" />
+  <!-- 1. Stabil Discord Durum Rozeti -->
+  <a href="https://discord.com/users/365947167036276736" target="_blank">
+    <img src="https://dcbadge.lanyard.rest/api/id/365947167036276736?theme=dark" alt="Discord Status" />
+  </a>
+  <!-- 2. Canlı Spotify Kartı -->
+  <a href="https://spotify.com" target="_blank">
+    <img src="https://spotify-github-profile.kittinanx.com/api/run?uid=365947167036276736&scan=true&theme=novatorem&background_color=0D1117" alt="Spotify Live" />
+  </a>
 </p>
-
 ### 📊 GitHub İstatistikleri
 
 <details open>
