@@ -38,11 +38,8 @@
 ### 📡 Canlı Etkinlik Durumu
 
 <p align="left">
-  <!-- Canlı Discord Durumu -->
-  <img src="https://lanyard.cnrad.dev/api/365947167036276736?theme=dark&bg=0D1117&animated=true&hideDiscrim=true&showDisplayName=true" alt="Discord Status" />
+  <img src="https://lanyard-badges.vercel.app/api/365947167036276736?theme=dark&bg=0D1117" alt="Discord Etkinlik Rozetleri" />
 </p>
-
-<br/>
 
 ### 📊 GitHub İstatistikleri
 
